@@ -43,5 +43,9 @@ body {
   max-width: 200px;
   /* display: flex;
   flex-direction: column;
-  align-items: center; */
+  align-items: center; 
+  don't need to specify these because
+  text-align: center on the body tag
+  centers images and text (inherited by
+  the plant-wrapper class)*/
 }
